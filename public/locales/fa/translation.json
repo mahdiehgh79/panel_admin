@@ -1,0 +1,60 @@
+{
+    "classbon": "کلاسبن",
+    "register" : {
+        "title": "آموزش آنلاین",
+        "introMassage": "حهب استفاده از امورش ها ثبت نام کنید ",
+        "register":" ثبت نام کنید",
+        "mobile": "موبایل",
+        "password":"رمز عبوز",
+        "repeatPassword":"تکرار رمز عبوز",
+        "alreadyRegistered":"قبلا ثیت نام کزدید؟",
+        "signin":"وارد ش.ید",
+        "saving": "در حال ذخیرخ اظلاعات ...",
+        "successOperation": "عملیات با موقثیت انحام شد ",
+        "validation": {
+            "mobileRequired": "موبایل ابزامی است",
+            "passwordRequired": "زمز عیور ابزامی اس",
+            "repeatPasswordRequired": " تکراررمز عیور ابزامی است",
+            "mobileLength": "شکاره مویابل باید 11 رقم باشد",
+            "notMatching":"هدم تطایث ",
+            "Passwordtooshort": "رمز عبور 6 گارامتر ",
+            "DuplicateUserName": "نام کاربری قبلا استفادخ شده "
+        }
+
+    },
+    "login": {
+        "title": "پلتفرم آموزش آنلاین",
+        "introMessage": "جهت ورود لازم است از طریق موبایل و رمز عبور خود اقدام نمایید",
+        "signingin": "در حال ورود ...",
+        "signin": "وارد شوید",
+        "register": "ثبت نام کنید",
+        "mobile": "موبایل",
+        "password": "رمز عبور",
+        "areNotRegistered": "ثبت نام نکرده اید؟",
+        "validation": {
+            "mobileRequired": "موبایل الزامی است",
+            "mobileLength": "شکاره مویابل باید 11 رقم باشد",
+            "passwordRequired": "رمز عبور الزامی است",
+            "IncorrectUserNameOrPassword": "موبایل یا رمز عبور صحیح نمی باشد"
+        }
+      },
+      "mainLayout": {
+        "sidebar": {
+          "subtitle": "پلتفرم آموزش آنلاین",
+          "courseManagement": "مدیریت دوره ها",
+          "allCourses": "همه دوره ها",
+          "coursesCategory": "دسته بندی دوره ها",
+          "courseDiscount": "تخفیف دوره ها",
+          "userManagement": "مدیریت کاربرها",
+          "teacherManagement": "مدیریت مدرس ها",
+          "studentManagement": "مدیریت دانشجوها",
+          "blogManagement": "مدیریت بلاگ",
+          "tagManagement": "مدیریت تگ ها",
+          "postManagement": "مدیریت پست ها"
+        }
+      },
+      "categoryList": {
+        "DeleteIsNotPossible": "امکان حذف این دسته وجود ندارد",
+        "DuplicateCategory": "امکان افزودن دسته تکراری وجود ندارد"
+      }
+  }
